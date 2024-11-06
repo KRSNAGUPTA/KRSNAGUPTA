@@ -1,7 +1,7 @@
 <h1 align="center" style="color: white;">Hi 👋, I'm Krishna Gupta</h1>
 <h3 align="center" style="color: lightgray;">A passionate Fullstack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krsnagupta&label=Profile%20views&color=0e75b6&style=flat" alt="krsnagupta" /> </p>
+[![](https://visitcount.itsvg.in/api?id=KRSNAGUPTA&label=Profile%20Views&color=4&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **DSA** & **Next.js**
 - 👯 I’m looking to collaborate on **fullstack project on MERN & Next.js**
