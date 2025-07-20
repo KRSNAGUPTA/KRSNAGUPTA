@@ -16,7 +16,7 @@
 - 🌱 **Currently Learning:** Advanced DSA & Next.js
 - 🤝 **Looking to Collaborate On:** Fullstack Projects
 - 📫 **How to Reach Me:** [Send me an email!](mailto:up.krishnagupta+github@gmail.com)
-- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/12WaZgzWfXuyeHkQ0ddC5gIL3TsSbROHy/view?usp=sharing)
+- 📄 **My Resume:** [View Here](https://drive.google.com/file/d/1sng30-JFW09tMjUGOapfSv2n0pWhF_U1/view?usp=drive_link)
 
 
 
