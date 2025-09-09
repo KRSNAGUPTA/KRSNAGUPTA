@@ -2,7 +2,7 @@
   Hello, I'm Krishna Gupta 👋 
 </h1>
 <h3 align="center"> 
-  Passionate Software Developer | Fullstack Enthusiast 
+  Software Developer
 </h3>
 
 <p align="center">
