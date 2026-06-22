@@ -65,9 +65,3 @@
 </div>
 
 
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krsnagupta&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
